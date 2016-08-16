@@ -10,6 +10,7 @@ The project includes following dependencies
 * gulp-ruby-sass - for compiling the Sass/Scss code to CSS ( please check the pre-requisites)
 * Jquery
 * Underscore
+
 ## Pre-requisites
 * Install `RUBY` ( version 2.0 or later)
 * Install `SASS` 
