@@ -5,7 +5,11 @@ The project uses `GULP` to build the UI and JS. The corresponding tasks are alre
 ## Dependencies
 The project includes following dependencies
 * Gulp - for the build tool
-* Sass - as a front end technology
 * Browserify - for porting the JS code to UI
-* vinyl- - for streaming the `browserify` output
-* gulp-ruby-sass - for compiling the Sass/Scss code to CSS
+* vinyl-source-stream- for streaming the `browserify` output
+* gulp-ruby-sass - for compiling the Sass/Scss code to CSS ( please check the pre-requisites)
+* Jquery
+* Underscore
+## Pre-requisites
+* Install `RUBY` ( version 2.0 or later)
+* Install `SASS` 
